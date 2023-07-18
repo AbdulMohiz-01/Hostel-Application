@@ -65,9 +65,7 @@ To run this application locally, please follow the instructions below:
 
 ## Contributing
 
-Contributions to the Hostel Application are always welcome. If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
-
-Before contributing, please review the [Contributing Guidelines](CONTRIBUTING.md).
+Contributions to the Hostel Application are always welcome. If you find any issues or have suggestions for improvement, please feel free to submit a pull request
 
 ## License
 
